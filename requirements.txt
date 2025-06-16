@@ -1,0 +1,5 @@
+apache-airflow>=2.7.0
+facebook-business>=18.0.0
+snowflake-connector-python>=3.0.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
